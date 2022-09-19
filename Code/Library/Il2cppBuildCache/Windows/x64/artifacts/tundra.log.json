@@ -1,0 +1,3 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"inputSignatureChanged","annotation":"Il2Cpp C:/Users/Etec/Desktop/Jogo-2D/Jogo2D/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll","index":1,"changes":[{"key":"InputFileDigest","path":"C:\\Users\\Etec\\Desktop\\Jogo-2D\\Jogo2D\\Temp\\StagingArea\\Data\\Managed\\Assembly-CSharp.dll","dependency":"explicit"}]}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/Etec/Desktop/Jogo-2D/Jogo2D/Library/Il2cppBuildCache/Windows/x64/Native/GameAssembly.dll","index":1,"exitcode":0}

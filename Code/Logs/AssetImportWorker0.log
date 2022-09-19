@@ -1,0 +1,160 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.9f1 (108be757e447) revision 1084391'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro Education; OS build 19044.1620; Version 2009; 64bit' Language: 'pt' Physical Memory: 15741 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.9f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/Etec/Desktop/Jogo-2D/Jogo2D
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+52304
+Successfully changed project path to: C:/Users/Etec/Desktop/Jogo-2D/Jogo2D
+C:/Users/Etec/Desktop/Jogo-2D/Jogo2D
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.65 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.9f1 (108be757e447)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/Etec/Desktop/Jogo-2D/Jogo2D/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: AMD Radeon(TM) Graphics (ID=0x1636)
+    Vendor:   
+    VRAM:     7870 MB
+    Driver:   27.20.14540.14002
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56460
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.9f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001718 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 47.75 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.737 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001175 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 50.29 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.951 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.63 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1998 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 93.9 MB.
+System memory in use after: 93.8 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2445.
+Total: 2.134900 ms (FindLiveObjects: 0.234200 ms CreateObjectMapping: 0.041400 ms MarkObjects: 1.720500 ms  DeleteObjects: 0.136600 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Scripts/Ui/Cronometro.cs
+  artifactKey: Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ui/Cronometro.cs using Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f6b5d3bc0298fde30aaaaaef8147f74') in 0.021813 seconds
+  Import took 0.025394 seconds .
+
+========================================================================
+Received Prepare
+Refreshing native plugins compatible for Editor in 1.81 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 10 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 53.2 MB.
+System memory in use after: 53.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 2445.
+Total: 1.924900 ms (FindLiveObjects: 0.211300 ms CreateObjectMapping: 0.040200 ms MarkObjects: 1.562600 ms  DeleteObjects: 0.109400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.553000 seconds.
+  path: Assets/Scripts/Ui/Cronometro.cs
+  artifactKey: Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ui/Cronometro.cs using Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22947de4f8e6cd65747dad7c279cc815') in 0.002321 seconds
+  Import took 0.005303 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 152.605787 seconds.
+  path: Assets/Scripts/Ui/Cronometro.cs
+  artifactKey: Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ui/Cronometro.cs using Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c7cb35acb5216d4b63395eadad2ea4') in 0.002437 seconds
+  Import took 0.005529 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002570 seconds.
+  path: Assets/Scripts/Ui/Cronometro.cs
+  artifactKey: Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ui/Cronometro.cs using Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c7cb35acb5216d4b63395eadad2ea4') in 0.002795 seconds
+  Import took 0.006028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.491414 seconds.
+  path: Assets/Scripts/Ui/Cronometro.cs
+  artifactKey: Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Ui/Cronometro.cs using Guid(1443a4c941a8eb04880fecfeff9f1000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9462cee2c667eeb5ccb2c466d4855ec7') in 0.002390 seconds
+  Import took 0.005267 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.748 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1977 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2448.
+Total: 2.173300 ms (FindLiveObjects: 0.223700 ms CreateObjectMapping: 0.041700 ms MarkObjects: 1.793800 ms  DeleteObjects: 0.113100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001131 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.54 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.750 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1977 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 92.4 MB.
+System memory in use after: 92.4 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2451.
+Total: 2.166200 ms (FindLiveObjects: 0.215800 ms CreateObjectMapping: 0.041000 ms MarkObjects: 1.787600 ms  DeleteObjects: 0.119700 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
