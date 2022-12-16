@@ -10,7 +10,7 @@ Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso
 O jogo consiste em um estilo top down, onde o jogador terá que eliminar os inimigos e encontrar os itens espalhados aleatoriamente pelo mapa.
 
 ## Layout tela inicial
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
+![Mobile 1](https://github.com/ArthurSilv4/Top-Down/blob/main/Imgs/Tela%20inicial.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
 
 ## Layout jogo
 ![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
