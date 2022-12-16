@@ -23,7 +23,13 @@ O jogo consiste em um estilo top down, onde o jogador terá que eliminar os inim
 
 # Como executar o projeto
 
-Pré-requisitos: Engine unity 2020.3.9f1
+Pré-requisitos: Unity hub, unity 2020.3.9f1
+
+# Clonar repositório
+git clone https://github.com/ArthurSilv4/Top-Down
+
+# Entrar no unity hub
+Selecionar a opção open e escolher o arquivo code
 
 # Autor
 
