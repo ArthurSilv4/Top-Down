@@ -5,7 +5,8 @@
 
 https://wmazoni-sds1.netlify.app
 
-Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso de **Desenvolvimento de jogos digitais**, pela [Etec de cubatão] (https://www.etecubatao.com.br "Site da etec").
+Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso de **Desenvolvimento de jogos digitais**, pela [Etec de cubatão](https://www.etecubatao.com.br "Site da etec").
+
 Big Game Survey é uma aplicação full stack web e mobile construída durante a 1ª edição da **Semana DevSuperior** (#sds1), evento organizado pela [DevSuperior](https://devsuperior.com "Site da DevSuperior").
 
 A aplicação consiste em uma pesquisa de preferência de games, onde os dados são coletados no app mobile, e depois são listados no app web, que também apresenta um dashboard com gráficos baseados nestes dados.
