@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-https://wmazoni-sds1.netlify.app
+https://arthursilv4.itch.io/top-d
 
 Top Down é um jogo desenvolvido na engine unity durante o 2ª semestre do curso de **Desenvolvimento de jogos digitais**, organizado pela [Etec de cubatão](https://www.etecubatao.com.br "Site da etec").
 
