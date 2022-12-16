@@ -34,7 +34,7 @@ Selecionar a opção open e escolher o arquivo code
 ```
 # Autor
 
-Arthur de souza silva
+Arthur de Souza Silva
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/arthur-de-souza-47807723a/
 
