@@ -19,6 +19,7 @@ O jogo consiste em um estilo top down, onde o jogador terá que eliminar os inim
 
 # Tecnologias utilizadas
 - C#
+- Engine unity
 - Visual Studio
 
 # Como executar o projeto
