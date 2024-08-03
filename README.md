@@ -37,5 +37,4 @@ Selecionar a opção open e escolher o arquivo code
 
 Arthur de Souza Silva
 
-https://www.linkedin.com/in/arthur-de-souza-47807723a/
-
+[LinkedIn](https://www.linkedin.com/in/arthur-souza-dev/)
